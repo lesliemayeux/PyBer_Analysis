@@ -7,3 +7,9 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 ## Results
 ![pyber_frame](https://github.com/lesliemayeux/PyBer_Analysis/blob/d99cfc1652dc1ab0682aa102c2328bcabe8b01cc/PyBer_Data_Chart.png)
 
+- Rural cities have the fewest riders
+- Urban cities have the highest demand for riders at 68.4% of total rides in the data
+- Average ride cost are higher in rural areas compared to urban.
+
+## Summary
+There are more rides in urban areas most likely due to higher population and less in rural due to a smaller population.  The average rides in the rural areas are more due to distance of the rides and availability of drivers whereas in urban areas, people live closer to each other and the places they want to go.
